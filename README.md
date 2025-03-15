@@ -1,4 +1,4 @@
-# Halftone 2D Code
+# Steganoditheer
 
 Embed messages in images using dual-mode halftone dithering. This script can hide text in both grayscale and color images using a clever dual-mode dithering approach that embeds data while maintaining visual quality.
 
